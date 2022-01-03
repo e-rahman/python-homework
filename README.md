@@ -1,2 +1,0 @@
-# fatbike
-new winter fatbike
